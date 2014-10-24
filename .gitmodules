@@ -1,0 +1,6 @@
+[submodule "core"]
+	path = core
+	url = git@github.com:kaerusteam/node-admin-panel-core.git
+[submodule "web"]
+	path = web
+	url = git@github.com:kaerusteam/node-admin-panel-web.git
